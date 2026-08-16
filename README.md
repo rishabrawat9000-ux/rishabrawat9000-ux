@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey, I'm Sonu
 
-<!--
-**rishabrawat9000-ux/rishabrawat9000-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE (AI/ML) Student**
+💻 Currently exploring **Machine Learning, Python & Full-Stack Development**
 
-Here are some ideas to get you started:
+I enjoy building things, breaking them, figuring out why they broke, and occasionally making them work again. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+
+* 🤖 Machine Learning & Data Science
+* 🐍 Python
+* 🌐 Flask & Web Development
+* 🗄️ SQL & Databases
+* ☕ Java & Data Structures
+* 🐧 Linux, Git & GitHub
+
+### 🔨 What I've Built
+
+* 🔐 **Phishing URL Detection** — ML-based phishing URL classifier
+* 🚚 **Transportation Network Analyzer** — Java application using graph algorithms
+* 🌐 **Flask-based Web Applications**
+* 🤖 Various ML & data-analysis projects
+
+### 🎯 My Goals
+
+I'm currently focused on becoming a stronger **ML/Software Engineer** by building real projects, improving my problem-solving skills, and learning how things work under the hood.
+
+### 🛠️ Tech Stack
+
+```text
+Python        ████████████████░░
+Machine Learning █████████████░░░
+Java          ███████████░░░░░░
+Flask         ███████████░░░░░░
+SQL           ██████████░░░░░░░
+Git/GitHub    █████████████░░░░
+Linux         █████████████░░░░
+```
+
+### 📫 Connect With Me
+
+* 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishab-rawat-8364a3329/)
+* 📧 Email: rishabrawat9000@gmail.com
+* 🐙 GitHub: You're already here :)
+
+---
+
+> **Build → Break → Learn → Repeat.**
