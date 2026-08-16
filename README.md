@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Sonu
+# 👋 Hey, I'm Rishab
 
 🎓 **B.Tech CSE (AI/ML) Student**
 💻 Currently exploring **Machine Learning, Python & Full-Stack Development**
