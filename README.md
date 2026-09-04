@@ -1,5 +1,5 @@
-# 👋 Hey, I'm Rishab<div align="center">
-  <img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" width="250">
+# 👋 Hey, I'm Rishab<div align="center"<a herf="https://www.instagram.com/rishab_nuos/">
+  <img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" width="250"></a>
 
 </div>
 
