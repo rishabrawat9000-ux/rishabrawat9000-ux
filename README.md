@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Rishab
 <div align="center">
   <img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" width="250">
-  `cat.exe is dancing...` 🐈‍⬛💃
+
 </div>
 
 🎓 **B.Tech CSE (AI/ML) Student**
