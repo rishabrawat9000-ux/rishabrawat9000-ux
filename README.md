@@ -36,13 +36,13 @@ I'm currently focused on becoming a stronger **ML/Software Engineer** by buildin
 ### 🛠️ Tech Stack
 
 ```text
-Python           ████████████████░░
-Machine Learning █████████████░░░
-Java             ███████████░░░░░░
-Flask            ███████████░░░░░░
-SQL              ██████████░░░░░░░
-Git/GitHub       █████████████░░░░
-Linux            █████████████░░░░
+Python           █████████████░░░░░░░
+Machine Learning ████████████░░░░░░░░
+Java             ████████████░░░░░░░░
+Flask            ███████████░░░░░░░░░
+SQL              ████████████░░░░░░░░
+Git / GitHub     █████████████░░░░░░░
+Linux            ████████████░░░░░░░░
 ```
 <div align="center">
 
@@ -53,7 +53,7 @@ Linux            █████████████░░░░
 
 * 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishab-rawat-8364a3329/)
 * 📧 Email: rishabrawat9000@gmail.com
-* 🐙 GitHub: You're already here :)
+* 🐙 GitHub: You're already here ;)
 
 ---
 
