@@ -1,7 +1,10 @@
 # 👋 Hey, I'm Rishab
 
-  <a herf="https://www.instagram.com/rishab_nuos/">
-  <img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" width="250"></a>
+<div align="center">
+  <a href="https://instagram.com/rishab_nuos">
+    <img src="https://media.tenor.com/GQAsycjoZG8AAAAi/scuba-scuba-cat.gif" width="200">
+  </a>
+</div>
 
 
 
