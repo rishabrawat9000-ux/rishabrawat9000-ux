@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Rishab
-
+<div align="center">
+  <img src="https://media.tenor.com/T_avUEk3aWwAAAAj/catgroove7tv-catgroove.gif" width="250">
+</div>
 🎓 **B.Tech CSE (AI/ML) Student**
 💻 Currently exploring **Machine Learning, Python & Full-Stack Development**
 
@@ -36,7 +38,11 @@ SQL              ██████████░░░░░░░
 Git/GitHub       █████████████░░░░
 Linux            █████████████░░░░
 ```
+<div align="center">
 
+`cat.exe is dancing...` 🐈‍⬛💃
+
+</div>
 ### 📫 Connect With Me
 
 * 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/rishab-rawat-8364a3329/)
